@@ -11,7 +11,7 @@ My engineering work focuses on cloud migration, Kubernetes and OpenShift, Infras
 - **Cloud & infrastructure:** Azure, AWS, GCP, Terraform
 - **Containers & orchestration:** Kubernetes, AKS, OpenShift, Docker, Helm
 - **Delivery & GitOps:** GitHub Actions, Jenkins, GitLab CI/CD, Argo CD
-- **Security & supply chain:** container scanning, secrets management, policy as code
+- **Security & supply chain:** workload identity, secrets management, container scanning, policy as code
 - **Observability & SRE:** Prometheus, Grafana, centralized logging, incident analysis
 - **Automation:** Python, Bash, Groovy, Java
 
@@ -19,7 +19,7 @@ My engineering work focuses on cloud migration, Kubernetes and OpenShift, Infras
 
 ### [Kaviont Platform](https://github.com/mohamadjaafri/kaviont-platform)
 
-An independent Azure platform engineering blueprint using Terraform, AKS, Azure networking and managed identity, Helm, GitHub Actions, and a containerized FastAPI workload. Includes architecture decisions, security boundaries, and provisioning runbooks.
+An independent Azure platform engineering blueprint using Terraform, AKS, federated workload identity, Key Vault RBAC, Helm, GitHub Actions, and a containerized FastAPI workload. Includes architecture decisions, security boundaries, automated validation, and operational runbooks.
 
 ### [env-sentry](https://github.com/mohamadjaafri/env-sentry)
 
