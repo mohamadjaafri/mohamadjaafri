@@ -4,7 +4,7 @@
 
 I design, automate, and operate cloud-native platforms with a focus on reliable delivery, secure infrastructure, and operational excellence.
 
-My work spans cloud migration, Kubernetes and OpenShift, Infrastructure as Code, CI/CD, GitOps, observability, and automation across AWS, Azure, and GCP.
+My engineering work focuses on cloud migration, Kubernetes and OpenShift, Infrastructure as Code, CI/CD, GitOps, security, observability, and automation across AWS, Azure, and GCP.
 
 ## Engineering focus
 
@@ -15,24 +15,23 @@ My work spans cloud migration, Kubernetes and OpenShift, Infrastructure as Code,
 - **Observability & SRE:** Prometheus, Grafana, centralized logging, incident analysis
 - **Automation:** Python, Bash, Groovy, Java
 
-## Selected engineering projects
+## Selected project
 
-| Project | Focus | Technologies |
-|---|---|---|
-| [Cloud Migration Factory](https://github.com/mohamadjaafri/cloud-migration-factory) | Repeatable cloud landing zone and workload migration patterns | Azure, Terraform, AKS, GitHub Actions |
-| [Secure Delivery Platform](https://github.com/mohamadjaafri/secure-delivery-platform) | Secure CI/CD and software supply chain controls | Docker, Kubernetes, Trivy, SBOM, signing |
-| [Production Microservices Platform](https://github.com/mohamadjaafri/production-microservices-platform) | Production-style services, SRE and observability | Kubernetes, PostgreSQL, Prometheus, Grafana |
-| [env-sentry](https://github.com/mohamadjaafri/env-sentry) | CLI tool to detect possible secrets in environment files | Python, Click, Rich |
+### [env-sentry](https://github.com/mohamadjaafri/env-sentry)
 
-> These repositories are independent portfolio implementations. They demonstrate engineering patterns and do not contain employer or customer code.
+A Python CLI security utility that scans dotenv files for potential secrets. It includes redacted findings, JSON output, explicit CI exit codes, automated tests, pre-commit integration, and a GitHub Actions quality pipeline.
 
 ## How I approach engineering
 
-1. Start with explicit requirements and operational constraints.
-2. Document architecture and important trade-offs.
+1. Start with requirements and operational constraints.
+2. Document architecture and technical trade-offs.
 3. Automate repeatable infrastructure and delivery workflows.
 4. Build security, testing, and observability into the platform.
 5. Document failure scenarios, recovery procedures, and improvements.
+
+## About this portfolio
+
+The repositories here are independent reference implementations. They demonstrate engineering patterns and do not contain employer or customer code.
 
 ## Contact
 
