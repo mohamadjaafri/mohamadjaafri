@@ -15,7 +15,11 @@ My engineering work focuses on cloud migration, Kubernetes and OpenShift, Infras
 - **Observability & SRE:** Prometheus, Grafana, centralized logging, incident analysis
 - **Automation:** Python, Bash, Groovy, Java
 
-## Selected project
+## Selected projects
+
+### [Kaviont Platform](https://github.com/mohamadjaafri/kaviont-platform)
+
+An independent Azure platform engineering blueprint using Terraform, AKS, Azure networking and managed identity, Helm, GitHub Actions, and a containerized FastAPI workload. Includes architecture decisions, security boundaries, and provisioning runbooks.
 
 ### [env-sentry](https://github.com/mohamadjaafri/env-sentry)
 
