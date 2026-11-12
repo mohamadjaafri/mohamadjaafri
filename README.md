@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning how to build intelligent agents that can read internal documentation, understand user intent and respond with accurate, context-aware answers
 - 🌱 I’m also deepening my skills in cloud-native DevOps, including GitOps, Infrastructure as Code and observability across AWS, Azure and OpenShift  
 - 💞️ I’m looking to collaborate on projects involving scalable CI/CD pipelines, cloud migrations, internal developer platforms and AI tooling for engineering productivity  
-- 📫 How to reach me: LinkedIn  www.linkedin.com/in/mohamad-jaafri-20846a277
+- 📫 How to reach me: LinkedIn  www.linkedin.com/in/mohamad-al-jaafri
 - 😄 Pronouns: he/him  
 - ⚡ Fun fact: I automate everything—even even my coffee machine has a deployment pipeline 😄
